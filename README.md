@@ -1,7 +1,6 @@
 ## 📝 Projeto AluraBook
 
-
-![table](![alurabook](https://user-images.githubusercontent.com/87910555/187101445-ffcbca5f-14bd-42be-ae38-ea25194fbbf3.png))
+![alurabook](https://user-images.githubusercontent.com/87910555/187101445-ffcbca5f-14bd-42be-ae38-ea25194fbbf3.png)
 
 ## 🧾 Sobre o Projeto
 Projeto de estudo das linguagens HTML & CSS, desenvolvendo uma página responsiva.
