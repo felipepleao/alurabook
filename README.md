@@ -1,12 +1,12 @@
 ## 📝 Projeto AluraBook
 
 
-![table](https://user-images.githubusercontent.com/87910555/176825858-8c2c440d-32dd-464a-ad63-eda5dfe357e3.png)
+![table]()
 
 ## 🧾 Sobre o Projeto
 Projeto de estudo das linguagens HTML & CSS, desenvolvendo uma página responsiva.
 
-## Link do projeto.
+## 🔗 Link do projeto.
 https://alurabook-rouge.vercel.app/
 
 ## 💻Tecnologias usadas:
